@@ -1,0 +1,23 @@
+Las paqueterias que se utilizaron que necesitan de instalacion para este proyecto fueron:
+
+pygame
+
+comando: pip install pygame
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jazz
